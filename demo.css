@@ -1,0 +1,4 @@
+html { height: 100%; }
+body { background-color: #eee; height: 100%;}
+
+.panzoombox { height: 90%; background-color: white; overflow: hidden;}
